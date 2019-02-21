@@ -1,0 +1,19 @@
+{
+  "name": "@midgar/db-session",
+  "version": "1.0.0-alpha.1.1",
+  "description": "A Midgar plugin to add db storage to @midgar/session plugin",
+  "scripts": {},
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "@midgar/db": "^1.0.0-alpha.1.1",
+    "@midgar/midgar": "^1.0.0-alpha.1.3",
+    "@midgar/session": "^1.0.0-alpha.1.1",
+    "connect-session-sequelize": "^6.0.0",
+    "express-session": "^1.15.6"
+  },
+  "devDependencies": {},
+  "author": "Metais Fabien",
+  "license": "MIT"
+}
